@@ -12,3 +12,4 @@
 ![image](https://github.com/Marcsucre25/cameraGeolocation/assets/105298870/6afec6e7-e86e-4f65-9ed0-6ad7c0539c65)
 ### La geolocation de cada foto.
 ![image](https://github.com/Marcsucre25/cameraGeolocation/assets/105298870/79d53e72-06d2-48b4-b7bc-75c3c86bdcf3)
+### Integrantes: Males Paulina - Moreira Marcos
